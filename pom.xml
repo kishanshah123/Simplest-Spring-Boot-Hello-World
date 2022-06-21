@@ -45,4 +45,11 @@
 		</dependency> -->
 
 	</dependencies>
+	<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>ip-172-31-93-108.ec2.internal-releases</name>
+        <url>http://34.227.114.173:8082/artifactory/libs-release</url>
+    </repository>
+</distributionManagement>
 </project>
